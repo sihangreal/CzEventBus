@@ -1,5 +1,0 @@
-D:\Test\CzEventBus\CzEventBus\bin\Debug\CzEventBus.dll
-D:\Test\CzEventBus\CzEventBus\bin\Debug\CzEventBus.pdb
-D:\Test\CzEventBus\CzEventBus\obj\Debug\CzEventBus.csprojResolveAssemblyReference.cache
-D:\Test\CzEventBus\CzEventBus\obj\Debug\CzEventBus.dll
-D:\Test\CzEventBus\CzEventBus\obj\Debug\CzEventBus.pdb
